@@ -6,6 +6,6 @@ Special thanks!
 @Francisco Nuñes
 
 @Esteban Burgeño Victorio 
-GitHub: https://github.com/EstebanVictorio
+<br>GitHub: https://github.com/EstebanVictorio
 
 @Miguel Ramos
