@@ -4,7 +4,7 @@
 Special thanks!
 
 @Francisco Nuñes
-@Miguel Ramos
-@Esteban Burgeño Victorio 
+<br>@Miguel Ramos
+<br>@Esteban Burgeño Victorio 
 <br>GitHub: https://github.com/EstebanVictorio
 
