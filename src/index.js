@@ -37,7 +37,4 @@ let gameContext = {
 };
 window.addEventListener("keydown", e => keyDown(gameContext), false);
 // ############# Game logic ##############
-//setInterval(() => update(gameContext), 10);
-//setInterval(update, 10);
-//TODO: Game over cuando caiga y reiniciar pipes -
-//TODO: Pipes random generator
+setInterval(() => update(gameContext), 10);
