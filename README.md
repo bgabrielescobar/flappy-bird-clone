@@ -1,11 +1,14 @@
 # Flappy Bird Clone JS V1.0
-<br>
 
-Special thanks!
+A simple Flappy Bird clone built with **HTML**, **CSS**, and **JavaScript** using **TypeScript**.
 
-@Francisco Nuñes
-<br>@Miguel Ramos
-<br>@Esteban Burgeño Victorio 
-<br>GitHub: https://github.com/EstebanVictorio
+## How to Play
+- Press the **Space** key to make the bird jump.
+- Avoid the pipes and try to get the highest score possible.
 
-<br>Game:https://codesandbox.io/s/github/GabyBE/Flappy_Bird_Clone
+## Future Improvements
+- Add sound effects.
+- Enhance graphics and animations.
+
+## Game
+https://codesandbox.io/s/github/GabyBE/Flappy_Bird_Clone
